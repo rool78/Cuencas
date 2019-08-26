@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542739671 source:c:\practica4\calendario\tipocalendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+
+1542739361 c:\practica4\calendario\tipocalendario.h
+
+1542739680 source:c:\practica4\calendario\calendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+
+1542739762 source:c:\p4_6_12\practica4\calendario\tipocalendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+
+1542739762 c:\p4_6_12\practica4\calendario\tipocalendario.h
+

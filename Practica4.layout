@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Practica4.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="TipoAlta.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="25416" topLine="0" />
+	</File>
+	<File name="TipoAlta.h" open="1" top="0" tabpos="3">
+		<Cursor position="2007" topLine="0" />
+	</File>
+	<File name="TipoCalendario.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="TipoCalendario.h" open="1" top="1" tabpos="5">
+		<Cursor position="16" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

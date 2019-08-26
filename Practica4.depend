@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1543427632 source:c:\practica4\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543659322 source:c:\practica4bup1\practica4\tipoalta.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+
+1543607191 c:\practica4bup1\practica4\tipoalta.h
+
+1543524139 source:c:\practica4bup1\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+
+1544034737 source:c:\p4_1_12\practica4\tipoalta.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+
+1543758415 c:\p4_1_12\practica4\tipoalta.h
+
+1543672047 source:c:\p4_1_12\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+
+1545168388 source:c:\p4_6_12\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
+1545168301 c:\p4_6_12\practica4\tipoalta.h
+
+1545169281 source:c:\p4_6_12\practica4\tipoalta.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
+1545170085 source:c:\p4_6_12\practica4\tipocalendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+	"TipoAlta.h"
+
+1545162507 c:\p4_6_12\practica4\tipocalendario.h
+
+1547139179 source:c:\ped4_r_maza\practica4\tipocalendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+	"TipoAlta.h"
+
+1545162507 c:\ped4_r_maza\practica4\tipocalendario.h
+
+1547138056 c:\ped4_r_maza\practica4\tipoalta.h
+
+1547138322 source:c:\ped4_r_maza\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
+1545170632 source:c:\ped4_r_maza\practica4\tipoalta.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
+1545170632 source:c:\users\raul_\desktop\ped4_r_maza\practica4\tipoalta.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
+1547138056 c:\users\raul_\desktop\ped4_r_maza\practica4\tipoalta.h
+
+1545162507 c:\users\raul_\desktop\ped4_r_maza\practica4\tipocalendario.h
+
+1547139179 source:c:\users\raul_\desktop\ped4_r_maza\practica4\tipocalendario.cpp
+	<stdio.h>
+	"TipoCalendario.h"
+	"TipoAlta.h"
+
+1547139285 source:c:\users\raul_\desktop\ped4_r_maza\practica4\practica4.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TipoAlta.h"
+	"TipoCalendario.h"
+
