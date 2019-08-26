@@ -1,3 +1,7 @@
-# Programa administración sistemas de regadios por regiones
+------------------------------------------------------------------------
+Programa gestor de estados de cuencas y presas por regiones
+------------------------------------------------------------------------
 
-Practica Fundamentos de programación 1er año UNED
+PROJECT TITLE: Gestor cuencas y presas
+PURPOSE OF PROJECT: Fundamentos de programacion UNED
+AUTHORS: Raúl Maza
